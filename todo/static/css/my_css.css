@@ -1,0 +1,23 @@
+.striker{
+  text-decoration: line-through;
+}
+table#t01 {
+    width: 100%;
+     background-color: #D8F0DA;
+     border: 1px;
+     min-width: 100%;
+     position: relative;
+     opacity: 0.97;
+     background: transparent;
+     overflow: scroll;
+
+}
+
+td{
+  word-wrap: break-word;
+  max-width: 500px;
+}
+
+th{
+  background-color:light;
+}
